@@ -84,7 +84,7 @@ Integrated dropdowns and filters for dynamic visualizations.
 4. Insights Reporting:
 Documented findings and actionable recommendations.
 ## Results
-1.Demographic Trends:
+1. Demographic Trends:
 Majority of customers are middle-aged professionals.
 Higher income groups prefer luxury packages.
 2. Behavioral Insights:
